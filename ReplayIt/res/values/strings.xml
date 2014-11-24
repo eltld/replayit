@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Athrun</string>
+    <string name="hello_world">Athrun</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Athrun</string>
+    <string name="phone_wake">手机屏幕保持唤醒状态</string>
+    <string name="stop_replay">停止回放</string>
+    <string name="logo_icon">AppLogo</string>
+    <string name="record_1">进入录制状态</string>
+	<string name="record_2">停止录制</string>
+	<string name="replay_1">进入回放状态</string>
+	<string name="replay_2">停止回放</string>
+	<string name="replay_times_label">回放次数：</string>
+	<string name="two_times">2x</string>
+	<string name="ten_times">10x</string>
+	<string name="exit">退出</string>
+</resources>
